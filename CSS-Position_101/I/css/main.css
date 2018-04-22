@@ -1,0 +1,23 @@
+div {
+    position: relative;
+}
+
+#box_1 {
+    height: 20em;
+    width: 60em;
+    }
+
+#box_2 {
+    background-color:green;
+    bottom: 0;
+    font-family: Arial;
+    height: 2em;
+    position: fixed;
+    width: 100em;
+    text-align: center;s
+}
+
+h1 {
+    text-align: center;
+    font-family: Georgia;
+}

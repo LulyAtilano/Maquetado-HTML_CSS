@@ -1,0 +1,24 @@
+div {
+    height: 5em;
+      /* position: absolute; */
+    width: 5em;
+}
+
+#box_1 {
+    background-color: red;
+}
+
+#box_2 {
+    background-color: green;
+    left: 5em;
+    position: relative;
+}
+
+#box_3 {
+    background-color: blue;
+}
+
+h1 {
+    text-align: center;
+    font-family: Georgia;
+}

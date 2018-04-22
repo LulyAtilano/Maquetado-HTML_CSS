@@ -1,0 +1,26 @@
+div {
+    position: absolute; 
+    left: 15em;
+}
+
+#box_1 {
+    background-color: red;
+    height: 49em;
+    width: 49em;
+    }
+
+.orange {
+    background-color: orangered;
+    bottom: 2em;
+    height: 45em;
+    left: 2em;
+    position: absolute;
+    right: 2em;
+    top: 2em;
+    width: 45em;
+}
+
+h1 {
+    text-align: center;
+    font-family: Georgia;
+}

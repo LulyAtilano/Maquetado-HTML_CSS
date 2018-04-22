@@ -1,0 +1,22 @@
+div {
+    position: absolute;
+}
+
+#box_1 {
+    background-color: red;
+    height: 20em;
+    width: 20em;
+    }
+
+#box_2 {
+    background-color:green;
+    height: 20em;
+    top: 20em;
+    left: 5em;
+    width: 20em;
+}
+
+h1 {
+    text-align: center;
+    font-family: Georgia;
+}
