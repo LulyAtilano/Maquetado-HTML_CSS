@@ -1,0 +1,28 @@
+
+/* Se modificará el 1er elemento dentro de body (hijo)*/
+body > div {
+    background-color: red;
+    height: 30em;
+    padding: 7.5em;
+    box-sizing: border-box;
+    width: 30em;
+}
+
+/* Se modificará el 1er elemento dentro del nieto de body */
+body > div > div {
+    background-color: purple;
+    height: 15em;
+    width: 15em;
+}
+
+/* Se modificará el 1er elemento dentro del bisnieto de body (nieto del hijo de body)*/
+body > div > div > div {
+    background-color: black;
+    height: 7.5em;
+    width: 7.5em;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

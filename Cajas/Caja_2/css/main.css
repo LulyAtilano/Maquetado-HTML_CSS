@@ -1,0 +1,26 @@
+body > div {
+    background-color: blue;
+    height: 30em;
+    padding: 7.5em;
+    box-sizing: border-box;
+    width: 30em;
+}
+
+body > div > div {
+    background-color: green;
+    height: 15em;
+    width: 15em;
+}
+
+#flotante {
+    background-color: black;
+    float: left;
+    height: 7.5em;
+    width: 7.5em;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
