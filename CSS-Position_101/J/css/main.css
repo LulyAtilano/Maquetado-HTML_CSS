@@ -1,0 +1,57 @@
+#container {
+    background-color: dodgerblue;
+    position: 0;
+    width: 70em;
+}
+
+nav {
+    background-color: rgb(123, 194, 16);
+    color: white;
+    margin: 0;
+    padding: 0;
+    width: 70em;
+}
+
+li {
+    border-right: 1px solid black;
+    display: inline-block;
+    list-style: none;
+    text-align: center;
+    padding: 1vw;
+    width: 5vw;
+}
+
+#content {
+    background-color: white;
+    clear: right;
+    display: inline-block;
+    top: 0;
+    position: relative;
+    left: 4vw;
+    width: 70vw;
+}
+
+#content > aside {
+    background-color: tomato;
+    color: white;
+    float: right;
+    height: 30em;
+    padding: 2vw;
+    text-align: justify;
+    width: 15em;
+}
+
+footer {
+    background-color: palevioletred;
+    bottom: 0;
+    padding: 1vw;
+    position: fixed;
+    width: 70em;
+}
+
+h1 {
+    text-align: center;
+    font-family: Georgia;
+    margin: 0;
+    padding: 1vw;
+}

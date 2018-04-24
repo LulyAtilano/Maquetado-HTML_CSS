@@ -1,0 +1,16 @@
+div#titulo {
+    background: rgb(240, 240, 6);
+    outline: 1px solid black;
+    text-align: center;
+    width: 900px;
+}
+
+main#container {
+    background-color: white;
+    display: inline;
+    height: 400px;
+    outline: 1px solid black;
+    width: 300px;
+}
+
+div#primera_caja
